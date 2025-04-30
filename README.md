@@ -1,19 +1,20 @@
-## 🐱 HTTP Cats
+## 📅 Calculadora de Idade
 
-🌐 HTTP Cats é um projeto divertido que transforma os códigos de status HTTP — como o famoso 404 — em imagens de gatos, cada um representando uma resposta diferente dos servidores web.
+🧮 A Calculadora de Idade é uma ferramenta simples que permite descobrir sua idade exata com base na data de nascimento informada. O cálculo é feito automaticamente, mostrando os anos completos de forma rápida e precisa.
 
 
 ## 🚀 Projeto
 
-O HTTP Cats tem como objetivo ensinar e ilustrar os códigos HTTP de forma leve e criativa. Cada código é representado por uma imagem única de um gato, misturando humor com conhecimento técnico. Ideal para devs, estudantes e curiosos da tecnologia.
+Este projeto foi desenvolvido com foco em praticidade e aprendizado. A ideia é oferecer uma forma direta de calcular a idade, enquanto aplica conceitos básicos de JavaScript, datas e interatividade com o usuário.
 
 ## 📺 Preview 
 
 ![preview](calculdorapreview.png)
 
 ## 🛠️ Construído com
- 
-* HTML5
-* CSS3
+
 * JavaScript
-* API HTTP Cats
+
+## ✍ Autora do HTML5 e CSS3 
+
+Ana Luisa - 
