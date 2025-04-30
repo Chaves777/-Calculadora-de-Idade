@@ -17,4 +17,4 @@ Este projeto foi desenvolvido com foco em praticidade e aprendizado. A ideia é 
 
 ## ✍ Autora do HTML5 e CSS3 
 
-Ana Luisa - 
+Dev e professora - [Ana Luisa Santos](https://github.com/analuisadev)
