@@ -10,9 +10,9 @@ Este projeto foi desenvolvido com foco em praticidade e aprendizado. A ideia é 
 
 ![preview](calculadorapreview.png)
 
-## 🛠️ Construído com
+## 🛠️ Colaboração
 
-* JavaScript
+* JavaScript - Lucas (Eu)
 
 ## ✍ Autora do HTML5 e CSS3 
 
