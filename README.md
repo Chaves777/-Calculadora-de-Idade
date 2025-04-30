@@ -8,7 +8,7 @@ Este projeto foi desenvolvido com foco em praticidade e aprendizado. A ideia é 
 
 ## 📺 Preview 
 
-![preview](calculdorapreview.png)
+![preview](calculadorapreview.png)
 
 ## 🛠️ Construído com
 
